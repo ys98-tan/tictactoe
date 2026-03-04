@@ -1,0 +1,10 @@
+D:\Fun\tictactoe\spacetimedb\target\wasm32-unknown-unknown\release\deps\spacetimedb_query_builder-f563cd8cd9c6aaa8.d: C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\lib.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\expr.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\join.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\table.rs
+
+D:\Fun\tictactoe\spacetimedb\target\wasm32-unknown-unknown\release\deps\libspacetimedb_query_builder-f563cd8cd9c6aaa8.rlib: C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\lib.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\expr.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\join.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\table.rs
+
+D:\Fun\tictactoe\spacetimedb\target\wasm32-unknown-unknown\release\deps\libspacetimedb_query_builder-f563cd8cd9c6aaa8.rmeta: C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\lib.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\expr.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\join.rs C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\table.rs
+
+C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\lib.rs:
+C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\expr.rs:
+C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\join.rs:
+C:\Users\owner\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spacetimedb-query-builder-2.0.2\src\table.rs:

@@ -1,0 +1,8 @@
+# SpacetimeDB Module Configuration
+project-name = "tictactoe"
+description = "Real-time multiplayer Tic-Tac-Toe game"
+version = "0.1.0"
+
+[build]
+lang = "rust"
+path = "spacetimedb"

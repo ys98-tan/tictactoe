@@ -1,0 +1,11 @@
+services:
+  spacetimedb:
+    image: clockworklabs/spacetime:latest
+    container_name: spacetimedb-local
+    ports:
+      - "3001:3000"   # WebSocket + HTTP API
+    volumes:
+      - ./spacetimedb/data:/var/lib/spacetimedb
+    environment:
+      - RUST_LOG=info
+    command: start

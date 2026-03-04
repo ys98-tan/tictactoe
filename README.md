@@ -347,5 +347,5 @@ A pure presentational component. Receives the 9-character `board` string (e.g. `
 | Bad WASM magic bytes `!<ar` | Missing `cdylib` crate type | Ensure `[lib] crate-type = ["cdylib"]` in Cargo.toml |
 | `link.exe not found` | MSVC Build Tools not installed | Install from https://aka.ms/vs/17/release/vs_BuildTools.exe then restart terminal |
 | `--project-path` flag unknown | Old CLI command | Use `--module-path` (v2 CLI rename) |
-#   t i c t a c t o e  
- 
+# tictactoe
+
